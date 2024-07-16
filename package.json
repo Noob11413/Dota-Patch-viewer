@@ -1,0 +1,12 @@
+{
+  "name": "dota-patch-viewer",
+  "version": "1.0.0",
+  "description": "web scraper for Dota 2; this is used for Patch nerfs, buffs, win rates  per rank.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
